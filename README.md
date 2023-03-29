@@ -18,4 +18,4 @@ pages={1-13},
 doi={10.1109/TGRS.2023.3243220}}
 ~~~
 ## contact
-If you have any problems using this code, feel free to email to <font color="#006600">zengguobing@buaa.edu.cn</font>.
+If you have any problems using this code, feel free to contact me at <font color="#006600">zengguobing@buaa.edu.cn</font>.
